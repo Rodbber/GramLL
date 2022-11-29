@@ -1,4 +1,4 @@
-# GramLL
+# GramLL com C++
 Programa para analizar uma gramatica LL, entregando firsts e follows, tabela preditiva e testando uma entrada
 
 como usar:
